@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rydrogen", "Rydrogen.csproj", "{42E415D7-7CB3-4BFC-8689-30D47BCE3357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E415D7-7CB3-4BFC-8689-30D47BCE3357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E415D7-7CB3-4BFC-8689-30D47BCE3357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E415D7-7CB3-4BFC-8689-30D47BCE3357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E415D7-7CB3-4BFC-8689-30D47BCE3357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89C2880E-AFD2-45B9-9BD2-69186903B8A5}
+	EndGlobalSection
+EndGlobal
